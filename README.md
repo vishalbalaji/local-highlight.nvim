@@ -40,7 +40,7 @@ You can setup local-highlight` as follows:`
 ```lua
 require('local-highlight').setup({
     file_types = {'python', 'cpp'},
-    hlgroup = 'TSDefinitionUsage',
+    hlgroup = 'Visual',
     cw_hlgroup = nil,
 })
 ```
